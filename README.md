@@ -20,7 +20,7 @@ Le projet H1 est une application de gestion des produits développée en Java en
 
 https://github.com/user-attachments/assets/c37a97b5-4680-46fc-b3ff-2a0d864f441a
 
- Si vous souhaitez améliorer ce projet, n'hésitez pas à faire un fork et à soumettre une pull request.
+ 
 
 ## video demo
 
